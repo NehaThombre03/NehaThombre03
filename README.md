@@ -1,11 +1,11 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQG_cpu2CqzCvg/article-cover_image-shrink_600_2000/0/1653150404368?e=2147483647&v=beta&t=1s_3JYAvqQNwvB0SWlgVhvgKwjM9FpG_b9bfT7dRZ04)
 <h1 align="center">Hi 👋, I'm Neha Thombre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer & Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🌱 I’m currently learning **React JS Framework**
+- 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, javascript, Tablue, SQL**
 
 - 📫 How to reach me **nehathombre294@gmail.com**
 
